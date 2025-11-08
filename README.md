@@ -12,8 +12,6 @@
 - 🗃️ **MySQL**
 - 🧩 **Linux / Bash**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezbinary&layout=compact&theme=vision-friendly-dark)](https://github.com/ezbinary)  
-
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezbinary&layout=compact&theme=vision-friendly-dark)](https://github.com/ezbinary)  
