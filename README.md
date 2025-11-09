@@ -1,8 +1,6 @@
 # 👋 Hi, I'm **ezbinary**
 
-🎯 **Cyber Security Enthusiast** | 💻 **Tech Explorer** | 🔐 **Defender of the Digital Realm**
----
-
+🎯 **Cyber Security Enthusiast**
 ## 🧰 Tech Stack
 
 **Languages & Tools:**
